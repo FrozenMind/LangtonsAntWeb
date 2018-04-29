@@ -1,0 +1,4 @@
+[{"id":0,"from_color":"white","to_color":"#CCCC00","turn":"r"},{"id":0,"from_color":"#CCCC00","to_color":"#00E680","turn":"l"},{"id":0,"from_color":"#00E680","to_color":"#33991A","turn":"l"},{"id":0,"from_color":"#33991A","to_color":"white","turn":"r"}]
+
+[{"id":0,"from_color":"white","to_color":"#E6FF80","turn":"r"},{"id":0,"from_color":"#E6FF80","to_color":"#CCCC00","turn":"l"},{"id":0,"from_color":"#CCCC00","to_color":"#66E64D","turn":"r"},{"id":0,"from_color":"#66E64D","to_color":"white","turn":"r"}]
+
