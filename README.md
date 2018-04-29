@@ -7,7 +7,7 @@ To have something started I added the rules for the classic control and a algori
 
 ## Control
 * P: pause / play
-* R: reastart
+* R: restart
 * +: faster
 * -: slower
 * B: toggle background black/white
