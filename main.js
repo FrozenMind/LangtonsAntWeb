@@ -3,7 +3,7 @@ let stage, width, height, paused = true,
   grid, ants = [],
   rule_set, step = 0,
   step_shape, fps = 20, //to display current step and fps
-  let number_of_rules = 2,
+  number_of_rules = 2,
     background_color = "white", //for now white and black
     color_array = ['#FF6633', '#FFB399', '#FF33FF', '#FFFF99', '#00B3E6',
       '#E6B333', '#3366E6', '#999966', '#99FF99', '#B34D4D',
