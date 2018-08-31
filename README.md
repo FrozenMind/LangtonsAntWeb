@@ -43,3 +43,9 @@ rule_set = [
 ]
 ```
 
+## TODO
+| Task | Done in commit |
+| --- | --- |
+| Show controls somewhere on HTML page |  |
+| Show current rule somewhere on HTML page |  |
+| Allow to edit rules on HTML page |  |
